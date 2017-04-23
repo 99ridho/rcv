@@ -29,3 +29,5 @@ self.present(viewControllerToPresent: cvc, animated: true, completion: nil)
 
 - improve UI & functionality
 - making dynamic framework (cocoapods)
+- keyboard handling
+- ... and more
